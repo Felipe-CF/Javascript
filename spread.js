@@ -7,8 +7,8 @@
 // let n1=[1, 2, 3]
 // let n2 = [4, 5, 6, 7]
 // // let n3 = [...n1]
-// let n3 = [...n1,...n2]
-// //console.log("n3: " + n3)
+//let n3 = [...n1,...n2]
+//console.log("n3: " + n3)
 // console.log("n3: " + n3)
 
 // const jog1 = {nome: "eu", energia:100}
